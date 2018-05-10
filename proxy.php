@@ -1,5 +1,4 @@
 <?php
-namespace  Proxy;
 
 interface ProxyInterface
 {
